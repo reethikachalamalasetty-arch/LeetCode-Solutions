@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |

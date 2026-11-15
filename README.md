@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/reethikachalamalasetty-arch/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 ## Greedy
 |  |
 | ------- |
